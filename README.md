@@ -1,4 +1,4 @@
-# Efficient 3D-Aware Facial Image Editing via Attribute-Specific Prompt Learning
+# Efficient 3D-Aware Facial Image Editing via Attribute-Specific Prompt Learning [ECCV 2024]
 
 
 > [**Efficient 3D-Aware Facial Image Editing via Attribute-Specific Prompt Learning**](https://github.com/VIROBO-15/Efficient-3D-Aware-Facial-Image-Editing)<br>
