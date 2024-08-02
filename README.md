@@ -6,7 +6,9 @@
 
 *Joint first authors
 
-
 Official implementation of the paper "[Efficient 3D-Aware Facial Image Editing via Attribute-Specific Prompt Learning](https://github.com/VIROBO-15/Efficient-3D-Aware-Facial-Image-Editing)".
 
-[Arxiv Paper](https://arxiv.org/abs/2406.04413).
+
+[Arxiv Paper](https://arxiv.org/abs/2406.04413)
+
+[Web Page](https://awaisrauf.github.io/3d_face_editing)
